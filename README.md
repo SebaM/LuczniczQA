@@ -7,3 +7,5 @@
 - https://github.com/SlawomirCiecierski/dziwolag
 ## Aleksander Czapski repo:
 - https://github.com/alekczapski/luczniczqa-11-demo
+## Mariusz Kapczyński repo:
+- https://github.com/kaczoki/luczniczqa
